@@ -231,17 +231,9 @@ flutter build web --release
 - [mobile_scanner パッケージ](https://pub.dev/packages/mobile_scanner)
 - [プロジェクト指示書](PROJECT_GUIDE.md)
 
-## 🤝 貢献
-
-このプロジェクトは現在プライベートです。
-
-## 📄 ライセンス
-
-このプロジェクトはプライベートライセンスです。
-
 ## 👤 作成者
 
-開発者: 社内開発チーム  
+開発者: 前田
 作成日: 2026 年 1 月
 
 ## 📝 変更履歴
