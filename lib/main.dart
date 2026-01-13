@@ -30,7 +30,7 @@ void gotoReaderPage(BuildContext context) {
 void gotoGeneratorPage(BuildContext context) {
   Navigator.push(
     context,
-    CupertinoPageRoute(builder: (context) => const GeneratorPageView()),
+    CupertinoPageRoute(builder: (context) => GeneratorPageView()),
   );
 }
 
