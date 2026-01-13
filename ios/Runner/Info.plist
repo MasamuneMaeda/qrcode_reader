@@ -49,5 +49,7 @@
 	<string>QRコードを写真ライブラリに保存するために、アクセス許可が必要です</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>QRコードを保存するために、写真ライブラリへのアクセスが必要です</string>
+	<key>NSCameraUsageDescription</key>
+<string>QRコードをスキャンするためにカメラへのアクセスが必要です</string>
 </dict>
 </plist>
